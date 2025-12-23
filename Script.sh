@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "hello from github"
+
+touch test.txt
+echo "hello from github" > test.txt
